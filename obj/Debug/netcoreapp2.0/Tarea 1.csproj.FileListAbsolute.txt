@@ -1,0 +1,10 @@
+/Users/denulemos/Documents/Tarea 1/obj/Debug/netcoreapp2.0/Tarea 1.csproj.CoreCompileInputs.cache
+/Users/denulemos/Documents/Tarea 1/obj/Debug/netcoreapp2.0/Tarea 1.AssemblyInfoInputs.cache
+/Users/denulemos/Documents/Tarea 1/obj/Debug/netcoreapp2.0/Tarea 1.AssemblyInfo.cs
+/Users/denulemos/Documents/Tarea 1/bin/Debug/netcoreapp2.0/Tarea 1.deps.json
+/Users/denulemos/Documents/Tarea 1/bin/Debug/netcoreapp2.0/Tarea 1.runtimeconfig.json
+/Users/denulemos/Documents/Tarea 1/bin/Debug/netcoreapp2.0/Tarea 1.runtimeconfig.dev.json
+/Users/denulemos/Documents/Tarea 1/bin/Debug/netcoreapp2.0/Tarea 1.dll
+/Users/denulemos/Documents/Tarea 1/bin/Debug/netcoreapp2.0/Tarea 1.pdb
+/Users/denulemos/Documents/Tarea 1/obj/Debug/netcoreapp2.0/Tarea 1.dll
+/Users/denulemos/Documents/Tarea 1/obj/Debug/netcoreapp2.0/Tarea 1.pdb
