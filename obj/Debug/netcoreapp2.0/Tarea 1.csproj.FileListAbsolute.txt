@@ -8,3 +8,8 @@
 /Users/denulemos/Documents/Tarea 1/bin/Debug/netcoreapp2.0/Tarea 1.pdb
 /Users/denulemos/Documents/Tarea 1/obj/Debug/netcoreapp2.0/Tarea 1.dll
 /Users/denulemos/Documents/Tarea 1/obj/Debug/netcoreapp2.0/Tarea 1.pdb
+C:\Users\Administrador\Sorteo10\Sorteo10\obj\Debug\netcoreapp2.0\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Sorteo10\Sorteo10\obj\Debug\netcoreapp2.0\Tarea 1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Sorteo10\Sorteo10\obj\Debug\netcoreapp2.0\Tarea 1.AssemblyInfo.cs
+C:\Users\Administrador\Sorteo10\Sorteo10\obj\Debug\netcoreapp2.0\Tarea 1.dll
+C:\Users\Administrador\Sorteo10\Sorteo10\obj\Debug\netcoreapp2.0\Tarea 1.pdb
