@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrador\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/denulemos/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Sorteo10\\Sorteo10\\Tarea 1.csproj",
+      "projectUniqueName": "/Users/denulemos/Sorteo10/Tarea 1.csproj",
       "projectName": "Tarea 1",
-      "projectPath": "C:\\Users\\Administrador\\Sorteo10\\Sorteo10\\Tarea 1.csproj",
-      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Sorteo10\\Sorteo10\\obj\\",
+      "projectPath": "/Users/denulemos/Sorteo10/Tarea 1.csproj",
+      "packagesPath": "/Users/denulemos/.nuget/packages/",
+      "outputPath": "/Users/denulemos/Sorteo10/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/denulemos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
